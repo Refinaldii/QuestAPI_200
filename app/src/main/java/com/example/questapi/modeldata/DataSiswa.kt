@@ -10,5 +10,5 @@ data class DataSiswa(
 )
 
 data class UIStateSiswa (
-
+    val detailSiswa: DetailSiswa = DetailSiswa(),
 )
