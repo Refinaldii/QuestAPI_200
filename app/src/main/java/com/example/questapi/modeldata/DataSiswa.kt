@@ -13,3 +13,7 @@ data class UIStateSiswa (
     val detailSiswa: DetailSiswa = DetailSiswa(),
     val isEntryValid: Boolean = false
 )
+
+data class DetailSiswa (
+
+)
