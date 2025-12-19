@@ -1,4 +1,8 @@
 package com.example.questapi.modeldata
 import kotlinx.serialization.Serializable
 
-data class DataSiswa()
+@Serializable
+data class DataSiswa(
+    val id : Int,
+
+    )
