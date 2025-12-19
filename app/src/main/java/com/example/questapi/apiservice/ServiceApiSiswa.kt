@@ -9,4 +9,6 @@ interface ServiceApiSiswa {
     @GET("bacaTeman.php")
     suspend fun getSiswa(): List<DataSiswa>
 
+    @POST("insertTM.php")
+
 }
