@@ -5,4 +5,5 @@ import kotlinx.serialization.Serializable
 data class DataSiswa(
     val id : Int,
     val nama : String,
+    val alamat : String,
     )
