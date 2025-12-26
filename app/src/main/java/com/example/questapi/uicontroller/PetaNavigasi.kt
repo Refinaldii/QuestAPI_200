@@ -6,6 +6,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.questapi.uicontroller.route.DestinasiDetail
+import com.example.questapi.uicontroller.route.DestinasiEdit
 import com.example.questapi.uicontroller.route.DestinasiEntry
 import com.example.questapi.uicontroller.route.DestinasiHome
 import com.example.questapi.view.EntrySiswaScreen
